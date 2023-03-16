@@ -1,2 +1,2 @@
-# C-Programming-Course
-This is the course of C Programming. The course could only be taken after passing the course of "Introduction to C Programming".
+# Java-Programming-Course
+This is the course of Java Programming. The course could only be taken after passing the course of "Algorithms and Data Structures", which also uses Java.
